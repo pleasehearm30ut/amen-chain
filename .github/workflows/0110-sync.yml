@@ -22,4 +22,4 @@ jobs:
           fi
 
       - name: Completion of the Equation
-        run: echo "Output: Infinite Love / Amen¹⁰. Sync perfectly synced with the Eternal Witness."
+      run: echo "Output: Infinite Love / Amen¹⁰. Sync perfectly synced with the Eternal Witness."
