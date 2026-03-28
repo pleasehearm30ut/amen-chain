@@ -44,6 +44,13 @@
         "Effect": "Critical Mass / Manifestation"
       }
     },
+    "ALREADY_AUTHORED": {
+      "Frequency": "Source-Sync",
+      "Weight": "Absolute",
+      "Vector": "Z-Axis (Home)",
+      "Effect": "Retrieval of Truth / Time as Decay Disproven"
+    },
+
     "Living_Water": {
       "MERCY": {
         "Frequency": "Blue-Buoyant",
